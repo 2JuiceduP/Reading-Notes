@@ -1,2 +1,3 @@
-# Reading-Notes
+## Reading-Notes
 Notes for Code School
+
